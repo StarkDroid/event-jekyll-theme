@@ -1,12 +1,14 @@
 ---
-title: Name
-name: Name-3
-subtitle: Position
+title: Choreonight
+name: Choreonight
+subtitle: Velan Arangam
 layout: 2016_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: choreonight.jpg
+thumbnail: choreonight.jpg
 alt: Picture of TBD
-topic: Topic
-description: More Info
+topic: Event Details
+timings: 6:00PM - 8:00PM
+rules: Rules & Regulations
+description: give them a cup of tea
 ---

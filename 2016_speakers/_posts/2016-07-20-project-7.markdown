@@ -1,14 +1,14 @@
 ---
-title: Photography
-name: Photography
+title: VideoJockey
+name: VideoJockey
 subtitle: VIBA
 layout: 2016_default
 modal-id: 1
-img: photography.jpg
-thumbnail: photography.jpg
+img: videojockey.jpg
+thumbnail: videojockey.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
+timings: 12:00PM - 1:00PM
 rules: Rules & Regulations
 description: More Info
 ---

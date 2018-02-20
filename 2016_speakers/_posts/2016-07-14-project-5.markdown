@@ -1,14 +1,14 @@
 ---
-title: Photography
-name: Photography
-subtitle: VIBA
+title: Vogue
+name: Vogue
+subtitle: Velan Arangam
 layout: 2016_default
 modal-id: 1
-img: photography.jpg
-thumbnail: photography.jpg
+img: vogue.jpg
+thumbnail: vogue.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
+timings: 5:00PM - 6:00PM
 rules: Rules & Regulations
 description: More Info
 ---

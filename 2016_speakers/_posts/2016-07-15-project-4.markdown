@@ -1,14 +1,14 @@
 ---
-title: Photography
-name: Photography
+title: ShortFilm
+name: ShortFilm
 subtitle: VIBA
 layout: 2016_default
 modal-id: 1
-img: photography.jpg
-thumbnail: photography.jpg
+img: shortfilm.jpg
+thumbnail: shortfilm.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
+timings: 10:00AM - 12:00PM
 rules: Rules & Regulations
 description: More Info
 ---

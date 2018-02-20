@@ -1,14 +1,14 @@
 ---
-title: Photography
-name: Photography
-subtitle: VIBA
+title: Variety 
+name: Variety
+subtitle: Shivalaiya
 layout: 2016_default
 modal-id: 1
-img: photography.jpg
-thumbnail: photography.jpg
+img: variety.jpg
+thumbnail: variety.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
+timings: 1:30PM - 3:00PM
 rules: Rules & Regulations
 description: More Info
 ---

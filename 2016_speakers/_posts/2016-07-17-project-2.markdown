@@ -1,12 +1,14 @@
 ---
-title: Name
-name: Name-2
-subtitle: Position
+title: LightMusic
+name: LightMusic
+subtitle: Shivalaiya
 layout: 2016_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: lightmusic.jpg
+thumbnail: lightmusic.jpg
 alt: Picture of TBD
-topic: Topic
+topic: Event Details
+timings: 4:00PM - 5:30PM
+rules: Rules & Regulations
 description: More Info
 ---
