@@ -11,6 +11,7 @@ topic: Event Details
 timings: 12:00PM - 1:00PM
 rules: Rules & Regulations
 description: The organizing committee has the right to shortlist the entries, if the entries are too many.
+description_1: Teams cannot have participants from different departments.
 list_1: It is an individual  event.
 list_2: The participant has to anchor a video programme, based on the spot topic. 
 list_3: The presentation can either be in English or Tamil.

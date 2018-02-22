@@ -11,6 +11,7 @@ topic: Event Details
 timings: 4:00PM - 5:30PM
 rules: Rules & Regulations
 description: The organizing committee has the right to shortlist the entries, if the entries are too many.
+description_1: Teams cannot have participants from different departments.
 list_1: Instruments will be placed in the auditorium and participants can register for singing
 list_2: Competitors should not use karaoke tracks.
 list_3: Time allowed to perform the event in 10 min.

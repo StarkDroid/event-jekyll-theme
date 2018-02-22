@@ -11,7 +11,8 @@ topic: Event Details
 timings: 3:00PM - 4:00PM
 rules: Rules & Regulations
 description: The organizing committee has the right to shortlist the entries, if the entries are too many.
-list_1: It is an individual  event and 2 participants per department 2 are allowed.
+description_1: Teams cannot have participants from different departments.
+list_1: It is an individual  event.
 list_2: The photography must creatively express the visual beauty on April 06 2018 "vels star". 
 list_3: The photographs should not contain obsence, defamatory or other objectionable content.
 list_4: The organizing committee has the right to shortlist the entries, if the entries are too many.

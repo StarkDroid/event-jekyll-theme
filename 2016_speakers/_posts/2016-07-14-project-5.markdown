@@ -11,6 +11,7 @@ topic: Event Details
 timings: 5:00PM - 6:00PM
 rules: Rules & Regulations
 description: The organizing committee has the right to shortlist the entries, if the entries are too many.
+description_1: Teams cannot have participants from different departments. 
 list_1: Number of participants is min 4 and max 10 per team
 list_2: Time limit is 5 minutes
 list_3: The show should be based on a particular theme of your choice and should be portrayed.

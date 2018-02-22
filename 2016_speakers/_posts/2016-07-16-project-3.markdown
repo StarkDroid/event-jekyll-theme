@@ -11,10 +11,11 @@ topic: Event Details
 timings: 6:00PM - 8:00PM
 rules: Rules & Regulations
 description: The organizing committee has the right to shortlist the entries, if the entries are too many.
+description_1: Teams cannot have participants from different departments.
 list_1: In a team minimum of 7 &amp; maximum of 10 members are allowed per team on stage.
 list_2: There are no restrictions on the choice of music. The music may or may not contain lyrics.
 list_3: The music will be switched off  after the time limitation of 10 minutes. ( inclusive for narration, set-up Time, etc.)
-list_4: Team leaders must pick up lots at a time specified by the organizers to decide the order of appearance in stage. The first team must be ready at least half an hour before the schedule time of beginning of the event. Other team must be ready at the backstage when the preceding team is on stage and properties are allowed. 
+list_4: Team leaders must pick up lots at a time specified by the organizers to decide the order of appearance in stage. The first team must be ready at least half an hour before the schedule time of beginning of the event. Other team must be ready at the backstage when the preceding team is on stage and properties are allowed. 
 list_5: Every team should have non-dancing member to take care of the lights and music, and he/she will have to report at the music desk with the CD/DVD when the previous team is performing on stage.
 list_6: Judgement will be made on the basis of costume, properties, concept and coordination within the team.
 coordinators: Event coordinators
