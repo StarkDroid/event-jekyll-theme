@@ -17,7 +17,7 @@ list_3: Inflammables & fluids are not allowed. 
 list_4: Use of abusive language and obscenities are prohibited. 
 list_5: Only one team per department will be allowed.  Should participate amongst your department. 
 list_6: Any competitor failing to report on time will be disqualified.  
-list_7: Time limit: 5-10 mins, at 9th minute a flange will be shown as an indicator.
+list_7: Time limit is 5-10 mins, at 9th minute a flange will be shown as an indicator.
 coordinators: Event coordinators
 name_1: Dr.Jayashree-Eng
 name_2: Ms.I.Shanthi-Chem

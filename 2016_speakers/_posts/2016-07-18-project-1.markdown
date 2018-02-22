@@ -16,7 +16,7 @@ list_2: The photography must creatively express the visual beauty on April 06 20
 list_3: The photographs should not contain obsence, defamatory or other objectionable content.
 list_4: The organizing committee has the right to shortlist the entries, if the entries are too many.
 list_5: The photographs captured in the campus are under copyright of vels university.
-list_6: A participant can submit maximum of 5 photographs. Photographed images have to be submitted in CD/DVD or to the email ID: velsstars2k18@gmail.com. The images should be  submitted to the Dept of viscom before 10:00am on 04th April 2018.
+list_6: A participant can submit maximum of 5 photographs. Photographed images have to be submitted in CD/DVD or to the email ID velsstars2k18@gmail.com. The images should be  submitted to the Dept of viscom before 10am on 04th April 2018.
 list_7: The digital image file(s) submitted will not be returned  or acknowledged. 
 coordinators: Event coordinators
 name_1: Mr.Niaz Ahmed-Viscom
