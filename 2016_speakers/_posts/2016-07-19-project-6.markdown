@@ -12,13 +12,15 @@ timings: 1:30PM - 3:00PM
 rules: Rules & Regulations
 description: The organizing committee has the right to shortlist the entries, if the entries are too many.
 description_1: Teams cannot have participants from different departments.
-list_1: Team should consist of minimum 5 and maximum 8 participants.
+list_1: Team should consist of minimum 7 participants.
 list_2: Participants should carry their own properties. 
 list_3: Inflammables & fluids are not allowed. 
 list_4: Use of abusive language and obscenities are prohibited. 
-list_5: Any competitor failing to report on time will be disqualified.  
-list_6: Time limit is 5-10 mins, at 9th minute a flange will be shown as an indicator.
+list_5: Should participate amongst your department. 
+list_6: Any competitor failing to report on time will be disqualified.  
+list_7: Time limit is 5-7 min
 coordinators: Event coordinators
 name_1: Dr.Jayashree-Eng
 name_2: Ms.I.Shanthi-Chem
+contact:  9655703396 / 9952943078
 ---

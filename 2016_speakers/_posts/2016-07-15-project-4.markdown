@@ -12,15 +12,16 @@ timings: 10:00AM - 12:00PM
 rules: Rules & Regulations
 description: The organizing committee has the right to shortlist the entries, if the entries are too many.
 description_1: Teams cannot have participants from different departments.
-list_1: It is an individual event
-list_2: The short film can be of any genre
-list_3: The duration of the short film should be of 5 - 10 minutes.
-list_4: The short film should not contain any obscene or offensive content.
-list_5: The short film should subtitles if they are made in any other language other than Tamil and English.
-list_6: The credits for various aspects of the film like diretion, cinematography, sound, editing etc., (at east the four categories) should be included in the film text as well as on the wrapper of the CD/DVD along with other information like the title of the short film, duration, etc..
-list_7: The submitted entries (CD/DVD) will not be returned.
-list_8: The entries should be submitted to the Dept of viscom.
+list_1: It is an individual event.
+list_2: The short film can be of any genre.
+list_3: The duration of the short film should be of 5 to 10 minutes.
+list_4: The short film should not contain any obsence, defamatory or other objectionable content. 
+list_5: The short film should have subtitles if they are made in a language other than Tamil and English. 
+list_6: The credits for various aspects of the film like direction, cinematography, sound, editing etc., ( at least the four categories) should be included in the film text as well as on the wrapper of the CD/DVD along with other information like the title of the short film, duration, etc..
+list_7: The submitted entries (CD/DVD) will not be returned. 
+list_8: The entries should be submitted to the event coordinators. 
 coordinators: Event coordinators
 name_1: Mr.Antony kimton prabhu-viscom
 name_2:	Dr.M.Prabhakaran- Tamil
+contact: 9176726683 / 9941169254
 ---
