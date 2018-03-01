@@ -22,8 +22,12 @@ list_7: Final round- maximum time allotted is 3 minutes.
 list_8: Judges decision is final.
 list_9: Songs can be of any genre.
 list_10: Vulgarity/Abusive songs will be disqualified.
-coordinators: Event coordinators
+coordinators: Staff Event coordinators
 name_1: Dr.R.Krishna Kumar-EEE
 name_2: Ms.Meenakshi-Maths
 contact:  9884754140 / 9486255955
+student: Student Event Coordinators
+student_1: Azeem-BE AUTO
+student_2: Ramasamy-BE CSE
+student_contact: 8939412876 / 8939190749
 ---

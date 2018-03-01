@@ -19,8 +19,12 @@ list_4: Use of abusive language and obscenities are prohibited. 
 list_5: Should participate amongst your department. 
 list_6: Any competitor failing to report on time will be disqualified.  
 list_7: Time limit is 5-7 min
-coordinators: Event coordinators
+coordinators: Staff Event coordinators
 name_1: Dr.Jayashree-Eng
 name_2: Ms.I.Shanthi-Chem
 contact:  9655703396 / 9952943078
+student: Student Event Coordinators
+student_1: Vinoth Kumar-BE MECH
+student_2: Vigneshwaran-BE MECH
+student_contact: 7397320931
 ---

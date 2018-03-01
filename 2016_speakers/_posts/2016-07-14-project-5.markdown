@@ -19,8 +19,12 @@ list_4: Audio track should be submitted to the event coordinator at least 2 hour
 list_5: Participants should carry their own properties.
 list_6: The performance should not be abusive or offensive.
 list_7: Participants should be at the venue, one hour prior to the commencement of the event.
-coordinators: Event coordinators
+coordinators: Staff Event Coordinators
 name_1: Ms.Devi-BCA
 name_2: Ms.R.Nisha-MBA
 contact: 9940533553
+student: Student Event Coordinators
+student_1: Dinesh Prabhakaran-MBA LSCM
+student_2: Saranya-MBA
+student_contact: 9791113971 / 9940266659
 ---

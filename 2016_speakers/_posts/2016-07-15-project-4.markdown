@@ -20,8 +20,11 @@ list_5: The short film should have subtitles if they are made in a language othe
 list_6: The credits for various aspects of the film like direction, cinematography, sound, editing etc., ( at least the four categories) should be included in the film text as well as on the wrapper of the CD/DVD along with other information like the title of the short film, duration, etc..
 list_7: The submitted entries (CD/DVD) will not be returned. 
 list_8: The entries should be submitted to the event coordinators. 
-coordinators: Event coordinators
+coordinators: Staff Event coordinators
 name_1: Mr.Antony kimton prabhu-viscom
 name_2:	Dr.M.Prabhakaran- Tamil
 contact: 9176726683 / 9941169254
+student: Student Event Coordinators
+student_1: Vinogaran-VISCOM
+student_contact: 9003088022
 ---

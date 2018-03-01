@@ -17,8 +17,12 @@ list_2: The participant has to anchor a video programme, based on the spot topic
 list_3: The presentation can either be in English or Tamil.
 list_4: The organizing committee has the right to shortlist the entries, if the entries are too many.
 list_5: No Abusive/Vulgarity language will be allowed
-coordinators: Event coordinators
+coordinators: Staff Event coordinators
 name_1: Mr.R.V.Raghul-Viscom
 name_2: Mr.S.Immanuelvel Raja-Viscom
 contact: 8637464058 / 9941767060
+student: Student Event Coordinators
+student_1: Fatin-VISCOM
+student_2: Sambhavi-VISCOM
+student_contact: 9092949070 / 7358270077
 ---

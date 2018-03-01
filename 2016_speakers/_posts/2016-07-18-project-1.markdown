@@ -18,8 +18,12 @@ list_3: The photographs should not contain obsence, offensive or other objection
 list_4: The organizing committee has the right to shortlist the entries, if the entries are too many.
 list_5: A participant can submit maximum of 4 photographs. Photographed images have to be mailed to the email id velsstars2k18@gmail.com.The images should be submitted on or before 04th April 2018.
 list_6: The digital image file(s) submitted will not be returned  or acknowledged.
-coordinators: Event coordinators
+coordinators: Staff Event coordinators
 name_1: Mr.Niaz Ahmed-Viscom
 name_2: Mr.Mohammed Zeejin- Law
 contact: 9952335530 / 9500134009
+student: Student Event coordinators
+student_1: Syed Wasim-BE MECH
+student_2: Prathap-BE MECH
+student_contact: 8807541723 / 7550272313
 ---
