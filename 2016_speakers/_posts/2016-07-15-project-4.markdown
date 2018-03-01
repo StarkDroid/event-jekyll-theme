@@ -26,5 +26,6 @@ name_2:	Dr.M.Prabhakaran- Tamil
 contact: 9176726683 / 9941169254
 student: Student Event Coordinators
 student_1: Vinogaran-VISCOM
+student_2: Gowri-VISCOM
 student_contact: 9003088022
 ---
