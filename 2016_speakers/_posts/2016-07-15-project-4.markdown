@@ -22,9 +22,9 @@ list_7: The submitted entries (CD/DVD) will not be returned. 
 list_8: The entries should be submitted to the event coordinators. 
 list_9: The last date of submission would be 2nd April, 2018 and the short film has to be submitted in MP4 format.
 coordinators: Staff Event coordinators
-name_1: Mr.Antony kimton prabhu-viscom
-name_2:	Dr.M.Prabhakaran- Tamil
-contact: 9176726683 / 9941169254
+name_1: Mr.Antony kimton prabhu - viscom
+name_2:	Kalaiselvan.S - viscom
+contact: 9176726683 / 9941168254
 student: Student Event Coordinators
 student_1: Vinogaran-VISCOM
 student_2: Gowri-VISCOM
