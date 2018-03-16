@@ -28,6 +28,8 @@ plugins:
 social:
   - title: instagram
     url: https:/www.instagram.com/velsstars/
+  - title: facebook
+    url: https://www.facebook.com/Vels-Stars-2K18-1707132046013158/
 
 # Build settings
 markdown: kramdown
