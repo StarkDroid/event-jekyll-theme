@@ -1,0 +1,26 @@
+---
+title: JukeBox
+name: SideEvents
+subtitle: Quadrangle
+layout: 2016_default
+modal-id: 1
+img: jukebox.jpg
+thumbnail: jukebox.jpg
+alt: Picture of TBD
+topic: Event Details
+timings: 10:00AM - 5:00PM
+rules: Rules & Regulations
+description: The events happening within Juke Box will not have any Prizes
+description_1: Coupons and Vouchers will be awarded to every participating member.
+list_1: No registrations required, come in and have fun.
+list_2: Participate in any of the suitable event as everyone will get their equal chance 
+list_3: Here is a list of events that come under Juke Box, MUSICALLY(On-Spot event), SHOW YOUR TALENT, TONGUE TWISTERS, THIS BLOWS, CUP PYRAMID, CUP THE GOAL, RUBIGO, PAPER STAND, COOKIE CATCH, CHANNEL SURFING
+list_4: The instructions for each event will be given on spot by the coordinators.
+coordinators: Staff Event Coordinators
+name_1: Fredrick Allen - English Dept.
+contact: 9841299273
+student: Student Event Coordinators
+student_1: Abinash Ganapathy - BBA
+student_contact: 7418574442
+---
+
