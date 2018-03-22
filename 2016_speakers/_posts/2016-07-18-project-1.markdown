@@ -16,8 +16,9 @@ list_1: It is an individual event.
 list_2: The photography must express the HAPPY EMOTIONS OF VISTAS-CANDID PHOTOGRAPHY.
 list_3: The photographs should not contain obsence, offensive or other objectionable content.
 list_4: The organizing committee has the right to shortlist the entries, if the entries are too many.
-list_5: A participant can submit maximum of 4 photographs. Photographed images have to be mailed to the email id velsstars2k18@gmail.com.The images should be submitted on or before 04th April 2018.
-list_6: The digital image file(s) submitted will not be returned  or acknowledged.
+list_5: A participant can submit maximum of 4 photographs. Photographed images have to be mailed to the email id velsstars2k18@gmail.com.
+list_6: The images should be submitted on or before 1st April 2018.
+list_7: The digital image file(s) submitted will not be returned  or acknowledged.
 coordinators: Staff Event coordinators
 name_1: Mr.Niaz Ahmed-Viscom
 name_2: Mr.Mohammed Zeejin- Law
