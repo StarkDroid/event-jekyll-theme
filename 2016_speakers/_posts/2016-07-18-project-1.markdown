@@ -1,12 +1,27 @@
 ---
-title: Name
-name: Name-1
-subtitle: Position
+title: TalkofGeeks
+name: TalkofGeeks
+subtitle: Venue
 layout: 2016_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: geeks.jpg
+thumbnail: geeks.jpg
 alt: Picture of TBD
-topic: Topic
-description: More Info
+topic: Event Details
+timings: 3:00PM - 4:00PM
+rules: Rules & Regulations
+description: placeholder
+description_1: placeholder
+list_1: placeholder 1
+list_2: placeholder 2
+list_3: placeholder 3
+list_4: placeholder 4
+list_5: placeholder 5
+list_6: placeholder 6
+list_7: placeholder 7
+list_8: placeholder
+student: Student Event coordinators
+student_1: name1
+student_2: name2
+student_contact: 123456789 / 1234567789
 ---

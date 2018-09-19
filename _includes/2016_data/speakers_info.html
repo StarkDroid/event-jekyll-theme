@@ -15,8 +15,28 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="../css/2016_style/img/speaker/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <h3>Topic: {{ post.topic }}</h3>
-                            <p>{{ post.description }}</p>
+                            <h3>{{ post.topic }}</h3>
+                            <h4>Timings: {{ post.timings }}<h4>
+			    <h5>{{ post.rules }}</h5>
+			    <p><b>NOTE: {{ post.description}}</b></p>
+			    <p><b>NOTE: {{ post.description_1}}</b></p>
+			    <ul style="list-style-type:none">
+				<li>{{ post.list_1}}</li>
+				<li>{{ post.list_2}}</li>
+				<li>{{ post.list_3}}</li>
+				<li>{{ post.list_4}}</li>
+				<li>{{ post.list_5}}</li>
+				<li>{{ post.list_6}}</li>
+				<li>{{ post.list_7}}</li>
+				<li>{{ post.list_8}}</li>
+				<li>{{ post.list_9}}</li>
+			     </ul>
+			     <p>{{ post.student}}</p>
+			     <ul style="list-style-type:disc">
+				<li>{{ post.student_1}}</li>
+				<li>{{ post.student_2}}</li>
+				<li>Contact: {{post.student_contact}}</li>
+			     </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -25,3 +45,4 @@
         </div>
     </div>
 {% endfor %}
+
