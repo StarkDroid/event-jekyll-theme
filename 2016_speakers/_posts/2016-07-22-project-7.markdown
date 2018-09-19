@@ -1,6 +1,6 @@
 ---
-title: Smartphone Film Festival
-name: Smartphone Film Festival
+title: SmartphoneFilmFestival
+name: SmartphoneFilmFestival
 subtitle: Venue
 layout: 2016_default
 modal-id: 1
