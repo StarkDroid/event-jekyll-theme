@@ -1,5 +1,5 @@
 ---
-title: TalkofGeeks
+title: Talk of Geeks
 name: TalkofGeeks
 subtitle: Venue
 layout: 2016_default

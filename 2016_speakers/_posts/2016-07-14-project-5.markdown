@@ -1,5 +1,5 @@
 ---
-title: LeDesign
+title: Le Design
 name: LeDesign
 subtitle: Venue
 layout: 2016_default

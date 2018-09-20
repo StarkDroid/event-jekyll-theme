@@ -1,5 +1,5 @@
 ---
-title: TreasureHunt
+title: Treasure Hunt
 name: TreasureHunt
 subtitle: Venue
 layout: 2016_default

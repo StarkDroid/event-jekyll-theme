@@ -1,5 +1,5 @@
 ---
-title: SmartphoneFilmFestival
+title: Smartphone Film Festival
 name: SmartphoneFilmFestival
 subtitle: Venue
 layout: 2016_default

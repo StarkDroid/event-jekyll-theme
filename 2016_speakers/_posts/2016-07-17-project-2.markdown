@@ -1,5 +1,5 @@
 ---
-title: PaperPresentation
+title: Paper Presentation
 name: Paperpresentation
 subtitle: Venue
 layout: 2016_default
