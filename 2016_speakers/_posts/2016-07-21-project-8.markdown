@@ -1,6 +1,6 @@
 ---
 title: IPLauctions
-name: IPLauctions
+name: IPL auctions
 subtitle: Venue
 layout: 2016_default
 modal-id: 1
