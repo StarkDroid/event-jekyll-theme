@@ -12,12 +12,12 @@ facebook:
 logo: "../css/2016_style/img/icon-large.png"
 
 social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
+  name: Pravesha 2018
+  link: "https://www.instagram.com/pravesha18/"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages', '_2017_pages']
+include: ['_2016_pages']
 
 gems:
   - jekyll-sitemap
@@ -26,7 +26,7 @@ gems:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: https://instagram.com
+    url: https://www.instagram.com/pravesha18/
 
 # Build settings
 markdown: kramdown
