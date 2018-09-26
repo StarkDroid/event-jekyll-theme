@@ -1,17 +1,15 @@
 ---
 title: IPL auctions
 name: IPLauctions
-subtitle: Venue
+subtitle: Shivalaya
 layout: 2016_default
 modal-id: 1
 img: ipl.jpg
 thumbnail: ipl.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
-rules: Rules & Regulations
-description: placeholder                                                                                  
-description_1: placeholder                                               
+timings: 10:30AM - 12:00PM
+description: Put yourself in the shoes of a bidder to build the dream team that you always wanted in these racy hours of nerves, strategy, game theory and gut.If you love cricket,if you have followed IPL and if you can mix common sense with passion into your bidding strategy, this event is a must for you                                                                                  
 list_1: placeholder 1             
 list_2: placeholder 2                                                                
 list_3: placeholder 3                                                                        
@@ -21,8 +19,9 @@ list_6: placeholder 6
 list_7: placeholder 7                                                             
 list_8: placeholder                                      
 student: Student Event coordinators
-student_1: name1             
-student_2: name2          
-student_contact: 123456789 / 1234567789
+student_1: Vishnuvardhan Maganti - CSE
+student_2: Priyarajan - CSE
+student_3: Ragul - IT          
+student_contact: 8680806579 / 9791195764 / 8939476847
 ---
 

@@ -1,17 +1,15 @@
 ---
 title: Quizzards
 name: Quizzards
-subtitle: Venue
+subtitle: Lecture Theatre
 layout: 2016_default
 modal-id: 1
 img: quiz.jpg
 thumbnail: quiz.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
-rules: Rules & Regulations
-description: placeholder                                                                                  
-description_1: placeholder                                               
+timings: 10:30PM - 12:00PM
+description: A test of erudition in the frontier of Computer Science. Compete with your equals in rounds of galvanizing questions and prove yourself superior amidst them all.                                                                                  
 list_1: placeholder 1             
 list_2: placeholder 2                                                                
 list_3: placeholder 3                                                                        
@@ -21,8 +19,8 @@ list_6: placeholder 6
 list_7: placeholder 7                                                             
 list_8: placeholder                                      
 student: Student Event coordinators
-student_1: name1             
-student_2: name2          
-student_contact: 123456789 / 1234567789
+student_1: Aadit Narendar             
+student_2: Sowrish.VS 
+student_contact: 9176540352 / 8610846976
 ---
 

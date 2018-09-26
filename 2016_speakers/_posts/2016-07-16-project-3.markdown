@@ -1,17 +1,15 @@
 ---
 title: Coderator
 name: Coderator
-subtitle: Venue
+subtitle: Computer Lab
 layout: 2016_default
 modal-id: 1
 img: code.jpg
 thumbnail: code.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
-rules: Rules & Regulations
-description: placeholder                                                                                  
-description_1: placeholder                                               
+timings: 11:00AM - 12:30PM
+description: This will test your technical and coding ability to the extremity. Be prepared to face situations from every nook and corner and get ready to give your best shot.                                                                                  
 list_1: placeholder 1             
 list_2: placeholder 2                                                                
 list_3: placeholder 3                                                                        
@@ -21,8 +19,9 @@ list_6: placeholder 6
 list_7: placeholder 7                                                             
 list_8: placeholder                                      
 student: Student Event coordinators
-student_1: name1             
-student_2: name2          
-student_contact: 123456789 / 1234567789
+student_1: Monisha - CSE             
+student_2: Siva Tejeswara reddy - CSE
+student_3: Vijay - IT          
+student_contact:  7299581817 / 9894466239
 ---
 
