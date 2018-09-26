@@ -9,9 +9,7 @@ thumbnail: pubg.jpg
 alt: Picture of TBD
 topic: Event Details
 timings: 2:30PM - 4:00PM
-rules: Rules & Regulations
 description: Join your friends and emerge as the last man standing in the infamous competitive survival shooter game,PlayerUnknown's Battlegrounds.                                                                                  
-description_1: placeholder                                               
 list_1: placeholder 1             
 list_2: placeholder 2                                                                
 list_3: placeholder 3                                                                        
