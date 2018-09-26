@@ -18,8 +18,7 @@
                             <h3>{{ post.topic }}</h3>
                             <h4>Timings: {{ post.timings }}<h4>
 			    <h5>{{ post.rules }}</h5>
-			    <p><b>NOTE: {{ post.description}}</b></p>
-			    <p><b>NOTE: {{ post.description_1}}</b></p>
+			    <p><b>DESCRIPTION: {{ post.description}}</b></p>
 			    <ul style="list-style-type:none">
 				<li>{{ post.list_1}}</li>
 				<li>{{ post.list_2}}</li>
@@ -31,10 +30,11 @@
 				<li>{{ post.list_8}}</li>
 				<li>{{ post.list_9}}</li>
 			     </ul>
-			     <p>{{ post.student}}</p>
+			     <h6>{{ post.student}}</h6>
 			     <ul style="list-style-type:disc">
 				<li>{{ post.student_1}}</li>
 				<li>{{ post.student_2}}</li>
+				<li>{{ post.student_3}}</li>
 				<li>Contact: {{post.student_contact}}</li>
 			     </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>

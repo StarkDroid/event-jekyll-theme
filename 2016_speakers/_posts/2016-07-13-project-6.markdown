@@ -1,16 +1,16 @@
 ---
 title: PUBG
 name: PUBG
-subtitle: Venue
+subtitle: VIBA
 layout: 2016_default
 modal-id: 1
 img: pubg.jpg
 thumbnail: pubg.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
+timings: 2:30PM - 4:00PM
 rules: Rules & Regulations
-description: placeholder                                                                                  
+description: Join your friends and emerge as the last man standing in the infamous competitive survival shooter game,PlayerUnknown's Battlegrounds.                                                                                  
 description_1: placeholder                                               
 list_1: placeholder 1             
 list_2: placeholder 2                                                                
@@ -21,8 +21,9 @@ list_6: placeholder 6
 list_7: placeholder 7                                                             
 list_8: placeholder                                      
 student: Student Event coordinators
-student_1: name1             
-student_2: name2          
-student_contact: 123456789 / 1234567789
+student_1: Nishanth - CSE
+student_2: Vijay Pandi - CSE
+student_3: Maheshwaran - IT       
+student_contact: 7358434119 / 9790859890 / 7401132306
 ---
 
