@@ -2,7 +2,7 @@
 layout: null
 permalink: robots.txt
 ---
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: http://pravesha2018.netlify.com/sitemap.xml
 
 User-agent: *
 Disallow: /css
