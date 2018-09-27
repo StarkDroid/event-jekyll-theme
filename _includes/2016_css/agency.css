@@ -733,6 +733,15 @@ section#contact .form-group input.form-control {
     height: auto;
 }
 
+section#contact .form-group input[type=checkbox], input[type=radio] {
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+}
+input[type=radio] {
+    bottom: 2px;
+}
+
 section#contact .form-group textarea.form-control {
     height: 236px;
 }
