@@ -1,5 +1,5 @@
 ---
-title: Le Design
+title: Aadit Narendar
 name: LeDesign
 subtitle: Computer Lab
 layout: 2016_default
