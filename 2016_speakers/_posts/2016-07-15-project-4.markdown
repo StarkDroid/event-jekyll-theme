@@ -10,7 +10,7 @@ alt: Picture of TBD
 topic: Event Details
 timings: 10:30PM - 12:00PM
 description: A test of erudition in the frontier of Computer Science. Compete with your equals in rounds of galvanizing questions and prove yourself superior amidst them all.                                                                                  
-list_1: 
+list_1: TO BE UPDATED
 list_2: 
 list_3: 
 list_4: 

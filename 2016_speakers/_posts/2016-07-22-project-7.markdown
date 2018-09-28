@@ -8,18 +8,16 @@ img: shortfilm.jpg
 thumbnail: shortfilm.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
-rules: Rules & Regulations
-description: placeholder                                                                                  
-description_1: placeholder                                               
-list_1: placeholder 1             
-list_2: placeholder 2                                                                
-list_3: placeholder 3                                                                        
-list_4: placeholder 4                                                                                
-list_5: placeholder 5                                                                                                                  
-list_6: placeholder 6                                              
-list_7: placeholder 7                                                             
-list_8: placeholder                                      
+timings: 1:00PM - 2:30PM
+description: Showcase your brilliance in cinematography within the 6 inch display of your everyday smartphone and prove that don't always need a cine cam.
+list_1: TO BE UPDATED, STAY TUNED             
+list_2:                                                     
+list_3: 
+list_4:                                                                                 
+list_5:                                                                                                                   
+list_6:                                               
+list_7:                                                              
+list_8:                                       
 student: Student Event coordinators
 student_1: Sivaram - CSE
 student_2: Raghul.S - CSE
