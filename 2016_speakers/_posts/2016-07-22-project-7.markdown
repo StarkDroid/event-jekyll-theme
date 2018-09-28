@@ -1,7 +1,7 @@
 ---
 title: Smartphone Film Festival
 name: SmartphoneFilmFestival
-subtitle: Venue
+subtitle: VIBA
 layout: 2016_default
 modal-id: 1
 img: shortfilm.jpg
