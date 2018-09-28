@@ -10,14 +10,11 @@ alt: Picture of TBD
 topic: Event Details
 timings: 2:30PM - 3:30PM
 description: Go ahead and express your creativity and unleash the designer within you to create wonderful works on the subject given to you.
-list_1: placeholder 1             
-list_2: placeholder 2                                                                
-list_3: placeholder 3                                                                        
-list_4: placeholder 4                                                                                
-list_5: placeholder 5                                                                                                                  
-list_6: placeholder 6                                              
-list_7: placeholder 7                                                             
-list_8: placeholder                                      
+list_1: 1.This is an INDIVIDUAL event.
+list_2: 2.Topics will be given on the event day .                                                                
+list_3: 3.Usage of internet is strictly prohibited during the design hours.                                            
+list_4: 4.Participants should bring their own devices to design and present their posters.                           
+list_5: 5.Final decisions and results will be revealed by the chief guest.                                                                                                                  
 student: Student Event coordinators
 student_1: Lokesh - CSE             
 student_2: Rajkumar - CSE
