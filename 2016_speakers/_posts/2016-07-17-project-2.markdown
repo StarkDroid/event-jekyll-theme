@@ -10,14 +10,16 @@ alt: Picture of TBD
 topic: Event Details
 timings: 10:30AM - 12:00PM
 description: Scholars present their research on a subject composed of Innovation and technological advancements which delivers exceptional information marking them unique.                                                                                 
-list_1: placeholder 1             
-list_2: placeholder 2                                                                
-list_3: placeholder 3                                                                        
-list_4: placeholder 4                                                                                
-list_5: placeholder 5                                                                                                                  
-list_6: placeholder 6                                              
-list_7: placeholder 7                                                             
-list_8: placeholder                                      
+list_1: 1.Candidates should send their paper in soft copy to our mail id,(pravesha18@velsuniv.ac.in) on or before (date).
+list_2: 2.Accepted papers will be intimated through their respective mail id.                                                                
+list_3: 3.Interested candidates are advised to mail the complete paper in IEEE format.                                                                        
+list_4: 4.Copying from the Internet is strongly discouraged and will not be accepted.                                                                                
+list_5: 5.The participants of shortlisted candidates will be informed by E-Mail ID or by Mobile.                                                  
+list_6: 6.The participants of shortlisted candidates should report to our cse department before (time) on (date).                                              
+list_7: 7.The participants of shortlisted candidates  have to bring a soft copy of paper in CD/USB Device and 2 hard copies of paper at the time of presentation.                                                              
+list_8: 8.The presentation time is for (time) mins and queries for (time) mins for each paper
+list_9: 9.The participants of shortlisted candidates have to bring presentation in .PPT or .PPTX
+list_10: 10.The participants should come with their college ID Card.Decision of the judges will be final and will not be subjected to any further discussions.
 student: Student Event coordinators
 student_1: Yedu Krishna Yadav - CSE             
 student_2: jothi Swaroop - CSE

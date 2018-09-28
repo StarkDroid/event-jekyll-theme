@@ -1,7 +1,7 @@
 ---
 title: Channel Surfing
 name: ChannelSurfing
-subtitle: Venue
+subtitle: Lecture Theatre
 layout: 2016_default
 modal-id: 1
 img: channel.jpg
@@ -9,20 +9,16 @@ thumbnail: channel.jpg
 alt: Picture of TBD
 topic: Event Details
 timings: 3:00PM - 4:00PM
-rules: Rules & Regulations
-description: placeholder                                                                                  
-description_1: placeholder                                               
-list_1: placeholder 1             
-list_2: placeholder 2                                                                
-list_3: placeholder 3                                                                        
-list_4: placeholder 4                                                                                
-list_5: placeholder 5                                                                                                                  
-list_6: placeholder 6                                              
-list_7: placeholder 7                                                             
-list_8: placeholder                                      
+description: Express your multitalent by showcasing yourself in this event.  
+list_1: 1.It is an individual event.             
+list_2: 2.Maximum time given to perform will be decided by the judges.
+list_3: 3.No preparation time will be given.                                                                        
+list_4: 4.Using inappropriate(vulgar) language will lead to spot disqualification.                                                                                
+list_5: 5.Final decision by judges will be considered as the final result.                                                                                                                  
 student: Student Event coordinators
-student_1: name1             
-student_2: name2          
-student_contact: 123456789 / 1234567789
+student_1: Abinesh - CSE             
+student_2: Sri Sai Preethi - CSE
+student_3: Daniel.P - IT
+student_contact: 9790818129 / 9940221476
 ---
 

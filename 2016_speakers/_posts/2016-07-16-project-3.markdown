@@ -10,14 +10,12 @@ alt: Picture of TBD
 topic: Event Details
 timings: 11:00AM - 12:30PM
 description: This will test your technical and coding ability to the extremity. Be prepared to face situations from every nook and corner and get ready to give your best shot.                                                                                  
-list_1: placeholder 1             
-list_2: placeholder 2                                                                
-list_3: placeholder 3                                                                        
-list_4: placeholder 4                                                                                
-list_5: placeholder 5                                                                                                                  
-list_6: placeholder 6                                              
-list_7: placeholder 7                                                             
-list_8: placeholder                                      
+list_1: 1.It is of individual participation.
+list_2: 2.The competition will be consisting of 2 rounds – Basic coding quest -Final round
+list_3: 3.Participants who qualify prelims will only go to the final round.                                                                        
+list_4: 4.The quiz based on application development will be given on spot.                           
+list_5: 5.30 minutes will be given for coding                                                                                                                   
+list_6: 6.Skills required-Bassic programming in c , c++,java, javascript,Python.                                              
 student: Student Event coordinators
 student_1: Monisha - CSE             
 student_2: Siva Tejeswara reddy - CSE

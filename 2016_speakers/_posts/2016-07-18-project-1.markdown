@@ -10,16 +10,14 @@ alt: Picture of TBD
 topic: Event Details
 timings: 10:00PM - 11:00AM
 description: A stage where tech-brains speak out their content on a technical topic of their choice and are given scores based on their rendition.
-list_1: placeholder 1
-list_2: placeholder 2
-list_3: placeholder 3
-list_4: placeholder 4
-list_5: placeholder 5
-list_6: placeholder 6
-list_7: placeholder 7
-list_8: placeholder
+list_1: 1.This is an individual participation event.
+list_2: 2.This event will be having 2 rounds. 
+list_3: 3.Round 1 – Each participant has to address a technology for a time duration of maximum 3 minutes and a minimum of 4 minutes .The top 7 contestants will be promoted to the 2nd round.
+list_4: 4.Round 2 – the top 7 candidates will bes asked 5 questions each by the judges. This round may even contain questions from politics, general knowledge just to test your knowledge on stuff rather than tech.
+list_5: 5.The top 3 contestants will b awarded 1st , 2nd ,and 3rd place according to their point they’ve scored. 
 student: Student Event coordinators
 student_1: Abhishek Kaushik - CSE
-student_2: Shreenath - IT
-student_contact: 9901281645 / 9791125471
+student_2: Kalyan N - CSE
+student_3: Shreenath - IT
+student_contact: 9901281645 / 9791125471 / 8309274232
 ---

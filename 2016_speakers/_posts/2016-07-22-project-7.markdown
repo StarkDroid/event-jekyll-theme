@@ -21,8 +21,9 @@ list_6: placeholder 6
 list_7: placeholder 7                                                             
 list_8: placeholder                                      
 student: Student Event coordinators
-student_1: name1             
-student_2: name2          
-student_contact: 123456789 / 1234567789
+student_1: Sivaram - CSE
+student_2: Raghul.S - CSE
+student_3: Jason Daniel - IT        
+student_contact: 9047221470 / 1234567789
 ---
 

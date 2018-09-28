@@ -10,14 +10,12 @@ alt: Picture of TBD
 topic: Event Details
 timings: 10:30AM - 12:00PM
 description: Put yourself in the shoes of a bidder to build the dream team that you always wanted in these racy hours of nerves, strategy, game theory and gut.If you love cricket,if you have followed IPL and if you can mix common sense with passion into your bidding strategy, this event is a must for you                                                                                  
-list_1: placeholder 1             
-list_2: placeholder 2                                                                
-list_3: placeholder 3                                                                        
-list_4: placeholder 4                                                                                
-list_5: placeholder 5                                                                                                                  
-list_6: placeholder 6                                              
-list_7: placeholder 7                                                             
-list_8: placeholder                                      
+list_1: 1.This event is a team participation.
+list_2: 2.Each team must contain 3 members.                                                                
+list_3: 3.Each team will be given a certain amount to bid the players to be auctioned.                                                                        
+list_4: 4.Each team who are bidding the players should contain a squad of 11 players.                                                                                
+list_5: 5.Squad format to be formed minimum 2 uncapped players, and maximum 4 foreign players.                                                                                                                  
+list_6: 6.Every player will have a base price from which the players auction will be started .                                              
 student: Student Event coordinators
 student_1: Vishnuvardhan Maganti - CSE
 student_2: Priyarajan - CSE
