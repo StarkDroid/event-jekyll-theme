@@ -10,14 +10,14 @@ alt: Picture of TBD
 topic: Event Details
 timings: 2:30PM - 4:00PM
 description: Join your friends and emerge as the last man standing in the infamous competitive survival shooter game,PlayerUnknown's Battlegrounds.                                                                                  
-list_1: placeholder 1             
-list_2: placeholder 2                                                                
-list_3: placeholder 3                                                                        
-list_4: placeholder 4                                                                                
-list_5: placeholder 5                                                                                                                  
-list_6: placeholder 6                                              
-list_7: placeholder 7                                                             
-list_8: placeholder                                      
+list_1: 
+list_2:            
+list_3:                                 
+list_4: 
+list_5: 
+list_6:                                               
+list_7:                                                              
+list_8:                                       
 student: Student Event coordinators
 student_1: Nishanth - CSE
 student_2: Vijay Pandi - CSE
