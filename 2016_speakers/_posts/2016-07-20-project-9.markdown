@@ -8,7 +8,7 @@ img: channel.jpg
 thumbnail: channel.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 3:00PM - 4:00PM
+timings: 1:30PM - 3:00PM
 description: Express your multitalent by showcasing yourself in this event.  
 list_1: 1.It is an individual event.             
 list_2: 2.Maximum time given to perform will be decided by the judges.

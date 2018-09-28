@@ -8,7 +8,7 @@ img: presentation.jpg
 thumbnail: presentation.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 10:30AM - 12:00PM
+timings: 11:00AM - 12:30PM
 description: Scholars present their research on a subject composed of Innovation and technological advancements which delivers exceptional information marking them unique.                                                                                 
 list_1: 1.Candidates should send their paper in soft copy to our mail id,(pravesha18@velsuniv.ac.in) on or before (date).
 list_2: 2.Accepted papers will be intimated through their respective mail id.                                                                
@@ -24,6 +24,6 @@ student: Student Event coordinators
 student_1: Yedu Krishna Yadav - CSE             
 student_2: jothi Swaroop - CSE
 student_3: Veda vani - IT
-student_contact: 123456789 / 1234567789
+student_contact: 9567372412 / 9940630526 / 9566226225
 ---
 

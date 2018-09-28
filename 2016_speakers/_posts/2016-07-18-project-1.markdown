@@ -8,7 +8,7 @@ img: geeks.jpg
 thumbnail: geeks.jpg
 alt: Picture of TBD
 topic: Event Details
-timings: 10:00PM - 11:00AM
+timings: 11:00AM - 12:30PM
 description: A stage where tech-brains speak out their content on a technical topic of their choice and are given scores based on their rendition.
 list_1: 1.This is an individual participation event.
 list_2: 2.This event will be having 2 rounds. 
