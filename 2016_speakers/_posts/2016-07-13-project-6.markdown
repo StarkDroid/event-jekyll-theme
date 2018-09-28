@@ -15,10 +15,9 @@ list_2: 2.Registration fee is Rs.50 per head and can participate in any of the g
 list_3: 3.Match will start at the exact announced time, hence we request you to settle down quickly.                                
 list_4: 4.If found to be cheating, the player will be disqualified.
 list_5: 5.PC emulators are not allowed (Triggers attached to the phone are strictly restricted).
-list_6: 6.Cash prizes are 2000/- (Squad), 1000/- (Duo) and 500/- (Solo).                          
-list_7: 7.The entire match will be live streamed in our official pravesha 2018 Facebook page. The link will be provided so you share it among your friends.                                                             
-list_8: 8.The player with the highest kills or even the best kills will be edited and posted in our Facebook aswell as Instagram page.
-list_9: 9.The winning team not only takes the cash prize but also takes away exciting prizes, so stay tuned to that.                                      
+list_6: 6.The entire match will be live streamed in our official pravesha 2018 Facebook page. The link will be provided so you share it among your friends.                                                             
+list_7: 7.The player with the highest kills or even the best kills will be edited and posted in our Facebook aswell as Instagram page.
+list_8: 8.The winning team not only takes the cash prize but also takes away exciting prizes, so stay tuned to that.                                      
 student: Student Event coordinators
 student_1: Nishanth - CSE
 student_2: Vijay Pandi - CSE
