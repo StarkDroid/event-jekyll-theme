@@ -16,6 +16,8 @@ list_3: 3.Each team will be given a certain amount to bid the players to be auct
 list_4: 4.Each team who are bidding the players should contain a squad of 11 players.                                                                                
 list_5: 5.Squad format to be formed minimum 2 uncapped players, and maximum 4 foreign players.                                                                                                                  
 list_6: 6.Every player will have a base price from which the players auction will be started .                                              
+list_7: 7.Every player will be alloted certain points based on their base auction price.
+list_8: 8.Winners will be selected by staff cordinators and will be selected in the basis of point they've earned by picking the respective players.
 student: Student Event coordinators
 student_1: Vishnuvardhan Maganti - CSE
 student_2: Priyarajan - CSE
