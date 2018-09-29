@@ -10,17 +10,16 @@ alt: Picture of TBD
 topic: Event Details
 timings: 11:00AM - 12:30PM
 description: A test of erudition in the frontier of Computer Science. Compete with your equals in rounds of galvanizing questions and prove yourself superior amidst them all.                                                                                  
-list_1: TO BE UPDATED
-list_2: 
-list_3: 
-list_4: 
-list_5: 
-list_6: 
-list_7: 
-list_8: 
+list_1: 1.Only team entries are eligible (MAX 4 MEMBERS)
+list_2: 2.There will be two rounds, Prelims and Finals.
+list_3: 3.Questions will be based on the emerging trends and technologies revolutionizing in the field of computer science.
+list_4: 4.The decision of the quiz master will be final and will not be subjected to any change.
+list_5: 5.The participants shall not allowed to use any electronic gadget during the time of competition.
+list_6: 6.Questions shall be in the form of multiple choice
 student: Student Event coordinators
 student_1: Aadit Narendar - CSE             
 student_2: Sowrish.VS - CSE 
-student_contact: 9176540352 / 8610846976
+student_3: GokulKrishnan - IT
+student_contact: 9176540352 / 8610846976 / 7708743480
 ---
 
