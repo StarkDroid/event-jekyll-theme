@@ -9,7 +9,7 @@ thumbnail: shortfilm.jpg
 alt: Picture of TBD
 topic: Event Details
 timings: 1:00PM - 2:30PM
-description: Showcase your brilliance in cinematography within the 6 inch display of your everyday smartphone and prove that don't always need a cine cam.
+description: Are you into making low or no budget films? Do you want to meet filmmakers and film fans? Join us
 list_1: 1.Shoot your film with your mobile, Sound can be recorded separately.             
 list_2: 2.Film genre is all yours but no vulgarity allowed.                                                    
 list_3: 3.No minimum limits but should not exceed 8 minutes
@@ -18,9 +18,9 @@ list_5: 5.Films must be submitted on or before 10/10/2018
 list_6: 6.Shortlisted entries will be informed                                               
 list_7: 7.Send your links to pravesha18@velsuniv.ac.in                                                             
 student: Student Event coordinators
-student_1: Sivaram - CSE
+student_1: Hari Prasad - CSE
 student_2: Raghul.S - CSE
 student_3: Jason Daniel - IT        
-student_contact: 9047221470 / 1234567789
+student_contact: 9047221470 / 8056769487 / 9551217312
 ---
 
