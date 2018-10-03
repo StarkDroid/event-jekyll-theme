@@ -20,6 +20,8 @@ list_7: 7.The participants of shortlisted candidates  have to bring a soft copy 
 list_8: 8.The presentation time is for 20 mins and queries for 4 mins for each paper
 list_9: 9.The participants of shortlisted candidates have to bring presentation in .PPT or .PPTX
 list_10: 10.The participants should come with their college ID Card.Decision of the judges will be final and will not be subjected to any further discussions.
+list_11: 11.The maximum number of members in a team must be four. The participants can either participate as a team or Individual participation is also encouraged. 
+list_12: 12.The participants must mention following details along with the paper (Paper Title, Author Name, Designation, College Name, College Address, Author's email ID, Phone no)
 student: Student Event coordinators
 student_1: Yedu Krishna Yadav - CSE             
 student_2: jothi Swaroop - CSE
