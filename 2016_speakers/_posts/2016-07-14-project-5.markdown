@@ -18,7 +18,7 @@ list_5: 5.Final decisions and results will be revealed by the chief guest.
 student: Student Event coordinators
 student_1: Lokesh - CSE             
 student_2: Rajkumar - CSE
-student_3: Antony - IT          
+student_3: Dhivya.K - IT          
 student_contact:  9841605775 / 7904215573
 ---
 
