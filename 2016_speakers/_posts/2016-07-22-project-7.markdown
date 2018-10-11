@@ -1,5 +1,5 @@
 ---
-title: Smartphone ShortFilm Festival
+title: Film Festival
 name: SmartphoneShortFilmFestival
 subtitle: VIBA
 layout: 2016_default
@@ -10,13 +10,11 @@ alt: Picture of TBD
 topic: Event Details
 timings: 1:00PM - 2:30PM
 description: Are you into making low or no budget films? Do you want to meet filmmakers and film fans? Join us
-list_1: 1.Shoot your film with your mobile, Sound can be recorded separately.             
-list_2: 2.Film genre is all yours but no vulgarity allowed.                                                    
-list_3: 3.No minimum limits but should not exceed 8 minutes
-list_4: 4.The short films may be in their original language, but must be subtitled in English.                                                                                
-list_5: 5.Films must be submitted on or before 10/10/2018                                                                                                                 
-list_6: 6.Shortlisted entries will be informed                                               
-list_7: 7.Send your links to pravesha18@velsuniv.ac.in                                                             
+list_1: 1.Film genre is all yours but no vulgarity allowed.                                                    
+list_2: 2.No minimum limits but should not exceed 8 minutes
+list_3: 3.The short films may be in their original language, but must be subtitled in English.                                                                                                                                                                                                  
+list_4: 4.Shortlisted entries will be informed                                               
+list_5: 5.Send your links to pravesha18@velsuniv.ac.in                                                             
 student: Student Event coordinators
 student_1: Hari Prasad - CSE
 student_2: Raghul.S - CSE
